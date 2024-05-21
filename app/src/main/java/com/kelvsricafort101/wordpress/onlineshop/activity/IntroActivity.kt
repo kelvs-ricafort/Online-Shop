@@ -2,9 +2,6 @@ package com.kelvsricafort101.wordpress.onlineshop.activity
 
 import android.content.Intent
 import android.os.Bundle
-import androidx.appcompat.app.AppCompatActivity
-import com.kelvsricafort101.wordpress.onlineshop.MainActivity
-import com.kelvsricafort101.wordpress.onlineshop.R
 import com.kelvsricafort101.wordpress.onlineshop.databinding.ActivityIntroBinding
 
 class IntroActivity : BaseActivity() {
